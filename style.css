@@ -1,0 +1,15 @@
+*{
+    margin: none;
+    padding: none;
+    list-style-type: none;
+}
+#demo1{
+    text-align: center;
+    color: whitesmoke;
+}
+#climax{
+    background-color: rgb(18, 139, 191);
+    border: 1px solid black;
+    width: 600px;
+    text-align: center;
+}
